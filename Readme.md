@@ -96,7 +96,7 @@ To compare performance, a benchmark script was created to measure the execution 
 
 The benchmark results starkly illustrate the performance differences between the two paradigms. The graph below plots execution time (Y-axis, logarithmic scale) against the number of nodes in the network (X-axis, logarithmic scale).
 
-![Performance Comparison Graph](../Comparison%20Graph.png)
+![Performance Comparison Graph](./performance_comparison.png)
 
 ### Analysis
 
